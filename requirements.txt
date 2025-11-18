@@ -1,0 +1,12 @@
+numpy<2.0
+scikit-learn
+scipy
+tqdm
+torch
+torchvision
+pytorch-fid
+argparse
+torchvision
+typing
+matplotlib
+pandas

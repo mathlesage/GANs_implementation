@@ -1,0 +1,11 @@
+image_test/** 
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+samples/**
+
+fake_mnist_images_temp/**
+real_mnist_images_temp/**
